@@ -1,5 +1,3 @@
-# Day 6 - Variables and Data Types
-
 ## What is a variable?
 
 Variable is like a container that holds data. Very similar to how our containers in kitchen holds sugar, salt etc
@@ -90,5 +88,3 @@ Output:
 ```python
 {'name': 'Sakshi', 'age': 20, 'canVote': True}
 ```
-
-## [Next Lesson>>](https://replit.com/@codewithharry/07-Day7-Exercise-1-Create-a-Calculator)
